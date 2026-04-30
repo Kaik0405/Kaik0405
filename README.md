@@ -58,10 +58,6 @@ I am a versatile **Software Engineer and Computer Science student** driven by a 
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
