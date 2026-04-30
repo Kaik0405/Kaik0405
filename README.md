@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Alex López</h1>
+<h1 align="center">Hi 👋, I'm Alejandro López</h1>
 
 <p align="center">
   <a href="https://github.com/Kaik0405">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=38BDF8&size=22&center=true&vCenter=true&width=850&height=50&lines=Computer+Science+Student;Systems+%26+Backend+Engineer;Low-Level+Performance+Enthusiast;Building+clean,+scalable,+and+efficient+software" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=38BDF8&size=22&center=true&vCenter=true&width=850&height=50&lines=Computer+Science+Student;Software+Engineer+%26+Problem+Solver;AI,+Game+Dev+%26+Applied+Mathematics;Building+clean,+scalable,+and+efficient+software" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <em>"Bridging the gap between low-level system mechanics and high-level software architecture."</em>
+  <em>"Transforming complex logic into scalable software, from low-level architecture to intelligent systems."</em>
 </p>
 
 ---
 
 ## 👨🏻‍💻 About Me & My Focus
 
-I am a versatile **Software Engineer and Computer Science student** with a deep passion for understanding how things work under the hood. My expertise spans from **operating systems and concurrency** to **modern backend development**. I thrive in diverse environments, adapting quickly to new technologies and paradigms.
+I am a versatile **Software Engineer and Computer Science student** driven by a passion for solving complex problems across the entire computing stack. My academic and practical background allows me to adapt to any environment, language, or paradigm, focusing on building software that is *correct, maintainable, efficient, and easy to reason about*.
 
-- 🔭 **Current Focus:** Deep-diving into systems programming, thread synchronization, and kernel-level debugging.
-- 🧩 **My Philosophy:** Code should be *correct, maintainable, efficient, and easy to reason about*.
-- 🛠️ **What I Build:** Everything from low-level C/C++ architectures and data structures to cross-platform applications using Python, Java, C#, and JS/TS.
-- 🎓 **Background:** Beyond CS, my experience teaching Mathematics has honed my analytical logic, while my studies in Physical Culture keep my mindset balanced and disciplined.
-- ⚡ **Fun Fact:** I can debug a race condition in C, design a REST API, and plan a math curriculum all in the same day.
+- 🧠 **Algorithms & Applied Math:** Strong foundation in computational logic, data structures, and mathematical modeling. My experience as a Mathematics educator gives me a sharp edge in analytical problem-solving.
+- ⚙️ **Systems & Compilation:** Understanding the machine under the hood. I enjoy working with low-level architecture, operating systems, and compiler design to write highly optimized C/C++ code.
+- 🤖 **Artificial Intelligence:** Exploring intelligent systems, machine learning fundamentals, and applying advanced algorithms to modern tech challenges.
+- 🎮 **Game Development:** Bringing logic to life. Building immersive, cross-platform interactive experiences and simulations using **Unity** and C#.
+- 🌐 **Software Architecture:** Moving across the stack to build robust backends and clean architectures using Python, Java, C#, and JS/TS.
 
 ---
 
@@ -33,14 +33,14 @@ I am a versatile **Software Engineer and Computer Science student** with a deep 
   </a>
 </p>
 
-### Frameworks & Architecture
+### Frameworks & Specializations (AI, Game Dev, Web)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,unity,bootstrap,tailwind&perline=15" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=unity,tensorflow,pytorch,react,nodejs,express,dotnet,bootstrap,tailwind&perline=15" alt="Frameworks" />
   </a>
 </p>
 
-### DevOps, Databases & Environments
+### Databases, DevOps & Environments
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,mysql,postgres,mongodb,sqlite,firebase,git,github,githubactions,vscode,visualstudio,postman&perline=15" alt="Tools" />
