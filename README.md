@@ -1,86 +1,86 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alex
-</h1>
-<p align="center"><em>"A jack of all trades is a master of none, but oftentimes better than a master of one."</em></p>
+<h1 align="center">Hi, I'm Alex López</h1>
 
 <p align="center">
-  <a href="https://github.com/Kaik0405">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Welcome+to+my+GitHub!+👋;Computer+Science+Student+%26+Versatile+Developer+🚀;Mastering+multiple+environments+and+paradigms+💻;From+low-level+systems+to+modern+applications+🌐;Always+learning,+always+creating+✨">
-  </a>
+  <strong>Computer Science student focused on systems programming, backend engineering, and software architecture.</strong>
 </p>
 
-<br>
+<p align="center">
+  I build software with an emphasis on correctness, performance, maintainability, and clean design.
+</p>
 
-## 🧑🏼‍💻 About Me
+---
 
-💡 &nbsp;I am a highly adaptable **Software Engineer** and Computer Science student, capable of navigating diverse tech stacks and environments with ease.\
-➗ &nbsp;My background as a Mathematics educator gives me a sharp, analytical edge for solving complex algorithmic and real-world problems.\
-🎓 &nbsp;Currently pursuing my degree in Computer Science, building a robust foundation that allows me to learn any new technology on the fly.\
-🌱 &nbsp;I don't limit myself to one niche: I build across systems architecture, game development, backend logic, and application design.\
-🏃‍♂️ &nbsp;Beyond the screen, I study Physical Culture and sports science, keeping a balanced and active mindset.\
-💬 &nbsp;Feel free to reach out to me for collaborations, exciting projects, or just to talk about tech and logic.\
-✉️ &nbsp;You can shoot me an [email](mailto:alejandrolopezcastro19@gmail.com) — I'll try to respond as soon as I can.
+## About Me
 
-<br>
+I am a Computer Science student with a strong interest in software engineering, operating systems, concurrency, and backend development.
 
-## 🛠 Tech Stack 
+My work and learning are centered on understanding how software behaves under the hood: processes, threads, synchronization, memory, debugging, and architecture. I enjoy moving across different layers of the stack, from low-level programming in C and C++ to application development in Python, Java, JavaScript, TypeScript, and C#.
+
+I value code that is:
+- correct
+- maintainable
+- efficient
+- easy to reason about
+
+---
+
+## Technical Focus
+
+- Operating systems and low-level debugging
+- Concurrency, threads, synchronization, and race conditions
+- Backend logic and application architecture
+- Data structures, algorithms, and performance analysis
+- Cross-platform development and tooling
+
+---
+
+## Tech Stack
 
 ### Languages
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,java,js,ts,html,css,bash,latex&perline=14" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,bash,html,css&perline=10" />
 </p>
 
 ### Frameworks & Libraries
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,react,nodejs,express,dotnet,bootstrap,tailwind&perline=10" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,unity,bootstrap,tailwind&perline=10" />
 </p>
 
 ### Tools & Platforms
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,ubuntu,postman,figma,discord,md,idea&perline=12" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,ubuntu,docker,postman,figma&perline=10" />
 </p>
 
 ### Databases & DevOps
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,docker,githubactions,bash,powershell&perline=10" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,githubactions&perline=10" />
 </p>
 
-## 🔗 &nbsp;Contact Me
+---
 
-<div>
-  <a href="https://t.me/AlejandroL04" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" alt="Telegram"/></a>
-  <a href="https://x.com/Aleloz_c" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" alt="X"/></a>
-  <a href="mailto:alejandrolopezcastro19@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.instagram.com/alelc.log/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" alt="Instagram"/></a>
-</div>
+## Current Direction
 
-<br>
+- Strengthening systems programming skills
+- Working on threading and synchronization problems
+- Improving backend and software design fundamentals
+- Building practical experience through real projects
 
-<div align="center">
-  <h2 align="center" style="margin: 5px 10px;">GitHub Stats & Activity</h2>
+---
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=true" 
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Kaik0405&theme=github-dark-dimmed&hide_border=true" 
-    height="160"
-    alt="GitHub Streak"
-  />
-</div>
+## Contact
 
+<p align="center">
+  <a href="mailto:alejandrolopezcastro19@gmail.com">Email</a> ·
+  <a href="https://t.me/AlejandroL04">Telegram</a> ·
+  <a href="https://x.com/Aleloz_c">X</a> ·
+  <a href="https://www.instagram.com/alelc.log/">Instagram</a>
+</p>
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+---
 
-<h2 align="center">"You’ve reached the end. Congrats 🎉"</h2>
-<h6 align="center">Made with ❤️ by a versatile dev 💻</h6>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaik0405&theme=github-dark-dimmed&hide_border=true" height="160" />
+</p>
