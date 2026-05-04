@@ -53,8 +53,11 @@ I am a versatile **Software Engineer and Computer Science student** driven by a 
 
 <p align="center">
   <a href="https://github.com/Kaik0405">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=Kaik0405&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaik0405&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kaik0405">
+    <img src="https://streak-stats.demolab.com/?user=Kaik0405&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub Streak" />
   </a>
 </p>
 
