@@ -1,87 +1,85 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&secondaryColor=1f2937&height=200&section=header&text=Alejandro%20López&fontSize=70&fontColor=38BDF8&animation=twinkling" width="100%" alt="Banner" />
-</p>
+<h1 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" width="30px">
+  𝐇𝐞𝐥𝐥𝐨, 𝐖𝐨𝐫𝐥𝐝! 𝐈'𝐦 &lt;𝐀𝐥𝐞𝐣𝐚𝐧𝐝𝐫𝐨 𝐋ó𝐩𝐞𝐳 /&gt;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" width="30px" />
+</h1>
 
 <p align="center">
-  <strong>🚀 Computer Science & Mathematics Student @ University of Havana 🚀</strong><br>
-  <em>Transforming complex logic into scalable software, from low-level architecture to intelligent systems.</em>
-</p>
-
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Kaik0405&style=flat-square&color=38BDF8"> •   
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Kaik0405?label=Followers&style=social"> •
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/Kaik0405?label=Stars&style=social">
+  <strong>Software Engineer & Systems Architect</strong><br>
+  <em>"Transforming complex mathematical logic into high-performance, scalable software systems."</em>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 👨🏻‍💻 About Me & My Focus
+<p align="right">
+  <img align="right" height="220" width="280" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Developer Coding" />
+</p>
 
-I am a versatile **Software Engineer and Computer Science & Mathematics student** driven by a passion for solving complex architectural and computational problems across the entire execution stack. My unique academic background allows me to adapt fluidly to any programming paradigm, focusing strictly on writing code that is correct, highly optimized, and maintainable.
+## 👨🏻‍💻 Core Expertise & Engineering Focus
 
-- 🧠 **Algorithms & Applied Math:** Strong foundation in computational logic, complex data structures, and mathematical modeling. My experience as a Mathematics educator gives me a sharp edge in rigorous analytical problem-solving.
-- ⚙️ **Systems & Compilation:** Understanding the machine under the hood. I enjoy working with low-level architecture, operating systems (kernel modifications), and compiler design to write highly optimized C/C++ systems.
-- 🤖 **Artificial Intelligence:** Exploring intelligent systems, machine learning fundamentals, and applying advanced algorithms to modern tech and data challenges.
-- 🎮 **Game Development:** Bringing logic to life. Building immersive, cross-platform interactive experiences and physics-driven simulations using **Unity** and C#.
-- 🌐 **Software Architecture & Web:** Moving fluidly across the stack to build robust backends, local AI deployments, and clean desktop/web architectures (C#/.NET 8, Python, Java, JS/TS).
+Focusing strictly on software correctness, mathematical soundness, low-level optimization, and clean structural elegance across the entire execution stack.
+
+- 🧠 **Advanced Algoritmics & Math:** Extensive background applying discrete mathematics, computational logic, and rigorous data structures to solve complex architectural problems.
+- ⚙️ **Systems & Compiler Engineering:** Deeply fascinated by the machine layer under the hood. Experience developing custom 32-bit processor models (S-MIPS), modifying OS kernels (Minix), and writing optimized C/C++ architectures.
+- 🤖 **Artificial Intelligence & Modeling:** Integrating mathematical optimization models, computational design patterns, and intelligent algorithmic frameworks to eliminate data orchestration bottlenecks.
+- 🎮 **Interactive Simulations & Engines:** Designing high-performance, physics-driven cross-platform engines, rendering logic, and game states using **Unity** and C#.
+- 🌐 **Robust Enterprise Architecture:** Moving fluidly across modern development ecosystems to deploy scalable backend systems and efficient desktop software with .NET 8, SQLite, Python, and Java.
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 🚀 Tech Stack & Tools
+## 🚀 Technical Arsenal & Tooling
 
-### 💻 Languages
+### 💻 Core Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,bash,html,css,latex&perline=15" alt="Languages" />
   </a>
 </p>
 
-### 🛠️ Frameworks & Specializations (AI, Game Dev, Web)
+### 🛠️ Frameworks & Specializations
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,tensorflow,pytorch,react,nodejs,express,dotnet,bootstrap,tailwind&perline=15" alt="Frameworks" />
   </a>
 </p>
 
-### 🗄️ Databases, DevOps & Environments
+### 🗄️ Infrastructure, Databases & Environments
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,mysql,postgres,mongodb,sqlite,firebase,git,github,githubactions,vscode,visualstudio,postman&perline=15" alt="Tools" />
   </a>
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 📊 GitHub Analytics & Performance
+## 📊 Performance Analytics & GitHub Activity
 
 <p align="center">
-  <!-- Tarjetas oficiales de GitHub Readme Stats corregidas con servidor estable -->
-  <a href="https://github.com/Kaik0405">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Kaik0405">
-    <img align="center" src="https://streak-stats.demolab.com/?user=Kaik0405&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  </a>
+  <!-- Tarjetas usando el balanceador nativo de Vercel para evitar bloqueos de tokens -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Kaik0405&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/Kaik0405">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaik0405&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaik0405&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <!-- Gráfico de Actividad Semanal Completo -->
+  <!-- Gráfico de actividad semanal en alta resolución -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaik0405&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
@@ -96,7 +94,7 @@ I am a versatile **Software Engineer and Computer Science & Mathematics student*
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <p align="center">
   <a href="mailto:alejandrolopezcastro19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -108,5 +106,5 @@ I am a versatile **Software Engineer and Computer Science & Mathematics student*
 <br>
 
 <div align="center">
-  <sub>Built with 💻 and ☕ by Alejandro López. Feel free to explore my repositories!</sub>
+  <sub>Built with precision. Feel free to explore my repositories and open-source contributions. ⭐</sub>
 </div>
