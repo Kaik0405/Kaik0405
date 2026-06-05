@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" width="30px">
-  𝐇𝐞𝐥𝐥𝐨, 𝐖𝐨𝐫𝐥𝐝! 𝐈'𝐦 &lt;𝐀𝐥𝐞𝐣𝐚𝐧𝐝𝐫𝐨 𝐋ó𝐩𝐞𝐳 /&gt;
+  𝐇e𝐥𝐥𝐨, 𝐖o𝐫𝐥𝐝! 𝐈'𝐦 &lt;𝐀𝐥e𝐣𝐚𝐧𝐝𝐫o 𝐋ó𝐩e𝐳 /&gt;
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" width="30px" />
 </h1>
 
@@ -65,28 +65,27 @@ Focusing strictly on software correctness, mathematical soundness, low-level opt
 ## 📊 Performance Analytics & GitHub Activity
 
 <p align="center">
-  <!-- Tarjetas usando el balanceador nativo de Vercel para evitar bloqueos de tokens -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <!-- Instancia alternativa estable para evitar caídas globales de tokens -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Kaik0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Kaik0405&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaik0405&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Kaik0405&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <!-- Gráfico de actividad semanal en alta resolución -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaik0405&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <br>
 
 <p align="center">
-  <!-- Tu serpiente real autogenerada -->
+  <!-- Cambiar por tu URL cuando el Action termine de correr exitosamente -->
   <img src="https://raw.githubusercontent.com/Kaik0405/Kaik0405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
