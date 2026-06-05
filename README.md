@@ -65,28 +65,30 @@ Focusing strictly on software correctness, mathematical soundness, low-level opt
 ## 📊 Performance Analytics & GitHub Activity
 
 <p align="center">
-  <!-- Servidor espejo independiente de alto rendimiento libre de saturación -->
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=Kaik0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <!-- Analíticas de perfil de alta disponibilidad (Módulo de reemplazo estable) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaik0405&theme=tokyonight" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Kaik0405&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Kaik0405&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
+  <!-- Distribución real de lenguajes basada en commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaik0405&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 <br>
 
 <p align="center">
+  <!-- Gráfico de actividad rosa integrado -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaik0405&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <br>
 
 <p align="center">
-  <!-- Tu serpiente real autogenerada (recuerda activar el Action con permisos) -->
-  <img src="https://raw.githubusercontent.com/Kaik0405/Kaik0405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <!-- Animación de la serpiente guardada directamente en tu rama principal -->
+  <img src="https://raw.githubusercontent.com/Kaik0405/Kaik0405/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 <p align="center">
