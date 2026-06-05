@@ -1,113 +1,112 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="35px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! I'm Alejandro López
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="35px" />
-</h1>
-
-<br/>
-
 <p align="center">
-  <strong>Computer Science & Mathematics Student @ University of Havana | Software Engineer | Mathematics Educator</strong><br>
-  <em>Algorithms • Data Structures • Compilation • Systems Architecture • Artificial Intelligence • Mathematical Modeling</em>
+  <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&secondaryColor=1f2937&height=200&section=header&text=Alejandro%20López&fontSize=70&fontColor=38BDF8&animation=twinkling" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Kaik0405&style=flat&color=blue"> •   
+  <strong>🚀 Computer Science & Mathematics Student @ University of Havana 🚀</strong><br>
+  <em>Transforming complex logic into scalable software, from low-level architecture to intelligent systems.</em>
+</p>
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Kaik0405&style=flat-square&color=38BDF8"> •   
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Kaik0405?label=Followers&style=social"> •
   <img alt="Total Stars" src="https://img.shields.io/github/stars/Kaik0405?label=Stars&style=social">
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Developer Animation" /></p>
+## 👨🏻‍💻 About Me & My Focus
 
-- 🔭 I’m currently focused on **Custom Kernel Development (Minix) and Low-Level OS Architecture.**
-- ⚙️ Deeply engaged in **creating an S-MIPS 32-bit processor**, extending system schedulers, and building custom assemblers.
-- 🧠 Expanding the boundaries of **Data Structures, Compiler Design, and Applied Mathematics**.
-- 💻 Developing efficient, scalable desktop architectures like **GestionApp** using C#/.NET 8 & SQLite.
-- 👯 I’m looking to collaborate on **High-Performance Systems, AI Algorithms, or Game Development.**
-- 💬 Ask me about **Complex Algorithms, C/C++, Mathematical Modeling, or Logic Optimization.**
-- ⚡ Fun fact: **The best part of solving a complex bug is realizing it was a single missing semicolon.**
+I am a versatile **Software Engineer and Computer Science & Mathematics student** driven by a passion for solving complex architectural and computational problems across the entire execution stack. My unique academic background allows me to adapt fluidly to any programming paradigm, focusing strictly on writing code that is correct, highly optimized, and maintainable.
 
-<br/>
-<br/>
+- 🧠 **Algorithms & Applied Math:** Strong foundation in computational logic, complex data structures, and mathematical modeling. My experience as a Mathematics educator gives me a sharp edge in rigorous analytical problem-solving.
+- ⚙️ **Systems & Compilation:** Understanding the machine under the hood. I enjoy working with low-level architecture, operating systems (kernel modifications), and compiler design to write highly optimized C/C++ systems.
+- 🤖 **Artificial Intelligence:** Exploring intelligent systems, machine learning fundamentals, and applying advanced algorithms to modern tech and data challenges.
+- 🎮 **Game Development:** Bringing logic to life. Building immersive, cross-platform interactive experiences and physics-driven simulations using **Unity** and C#.
+- 🌐 **Software Architecture & Web:** Moving fluidly across the stack to build robust backends, local AI deployments, and clean desktop/web architectures (C#/.NET 8, Python, Java, JS/TS).
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-<a target="_blank"><img align="left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif?raw=true"></a>
+## 🚀 Tech Stack & Tools
 
-<br/>
-<h3> 🛠️ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒: </h3>
-<br/>
+### 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,bash,html,css,latex&perline=15" alt="Languages" />
+  </a>
+</p>
 
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"></code>
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="LaTeX"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"></code>
+### 🛠️ Frameworks & Specializations (AI, Game Dev, Web)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,tensorflow,pytorch,react,nodejs,express,dotnet,bootstrap,tailwind&perline=15" alt="Frameworks" />
+  </a>
+</p>
 
-<br/>
-<br/>
-<br/>
-<br/>
+### 🗄️ Databases, DevOps & Environments
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,mysql,postgres,mongodb,sqlite,firebase,git,github,githubactions,vscode,visualstudio,postman&perline=15" alt="Tools" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-<details open="">
-<summary>
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" width="20px">
-  <strong> 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 & 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬: </strong>
-</summary>
+## 📊 GitHub Analytics & Performance
+
+<p align="center">
+  <!-- Tarjetas oficiales de GitHub Readme Stats corregidas con servidor estable -->
+  <a href="https://github.com/Kaik0405">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Kaik0405">
+    <img align="center" src="https://streak-stats.demolab.com/?user=Kaik0405&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  </a>
+</p>
+
 <br>
 
 <p align="center">
   <a href="https://github.com/Kaik0405">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaik0405&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Stats" />
-  </a>
-  <a href="https://github.com/Kaik0405">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaik0405&text_color=FFFFFF&bg_color=0D1117&title_color=38BDF8&langs_count=10&layout=compact&hide_border=true" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaik0405&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages" />
   </a>
 </p>
-</details>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaik0405&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <!-- Gráfico de Actividad Semanal Completo -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaik0405&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <br>
 
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ `-'/ \❯                                        @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+<p align="center">
+  <!-- Tu serpiente real autogenerada -->
+  <img src="https://raw.githubusercontent.com/Kaik0405/Kaik0405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:alejandrolopezcastro19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/AlejandroL04"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://x.com/Aleloz_c"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/alelc.log/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<br>
+
+<div align="center">
+  <sub>Built with 💻 and ☕ by Alejandro López. Feel free to explore my repositories!</sub>
+</div>
